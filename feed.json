@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hey Tiger",
+    "description": "",
+    "home_page_url": "https://sheriroloff.github.io/hey-tiger-website",
+    "feed_url": "https://sheriroloff.github.io/hey-tiger-website/feed.json",
+    "user_comment": "",
+    "icon": "https://sheriroloff.github.io/hey-tiger-website/media/website/Hey-Tiger_Word-Logo_white-lines.png",
+    "author": {
+        "name": "Sheri Roloff"
+    },
+    "items": [
+    ]
+}
